@@ -3,7 +3,7 @@
   "name": "My Novel",
   "version": "1.0.0",
   "author": "ct",
-  "description": "The novel template's own content: a town where you can go into a bar or back home, and a way back from both. Only scenes, scenarios and text; backgrounds and sound come from town_pack. Rename it after your game (<game>_game) and grow your story from here.",
+  "description": "The novel template's content: an evening town, a bar and a home connected by choices. Copy it, rename it and grow your own story from these three places.",
   "category": "story",
   "depends": ["shell2d_base>=1", "dialog_base>=1", "audio_base>=1", "town_pack>=1", "music_pack>=1"]
 }
