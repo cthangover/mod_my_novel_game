@@ -1,7 +1,7 @@
 {
   "id": "my_novel_game",
   "name": "My Novel",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "ct",
   "description": "The novel template's content: an evening town, a bar and a home connected by choices. Copy it, rename it and grow your own story from these three places.",
   "category": "story",
