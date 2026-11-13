@@ -5,5 +5,5 @@
   "author": "ct",
   "description": "The novel template's content: an evening town, a bar and a home connected by choices. Copy it, rename it and grow your own story from these three places.",
   "category": "story",
-  "depends": ["shell2d_base>=1", "dialog_base>=1", "audio_base>=1", "town_pack>=1", "music_pack>=1"]
+  "depends": ["shell2d_base>=0.1.0", "dialog_base>=0.1.0", "audio_base>=0.1.0", "town_pack>=0.1.0", "music_pack>=0.1.0"]
 }
